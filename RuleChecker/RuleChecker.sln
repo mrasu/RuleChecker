@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B9091D78-4FBB-4FC5-8FB9-73B591F2F9BA}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleChecker", "RuleCheckerMain\RuleChecker.csproj", "{9986EB78-C8A3-4DA1-A86E-B412E4EAB80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleCheckerTest", "RuleCheckerTest\RuleCheckerTest.csproj", "{D3BC57A7-40CE-4059-A835-DF338DB2CCE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9986EB78-C8A3-4DA1-A86E-B412E4EAB80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9986EB78-C8A3-4DA1-A86E-B412E4EAB80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9986EB78-C8A3-4DA1-A86E-B412E4EAB80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9986EB78-C8A3-4DA1-A86E-B412E4EAB80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BC57A7-40CE-4059-A835-DF338DB2CCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BC57A7-40CE-4059-A835-DF338DB2CCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BC57A7-40CE-4059-A835-DF338DB2CCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BC57A7-40CE-4059-A835-DF338DB2CCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

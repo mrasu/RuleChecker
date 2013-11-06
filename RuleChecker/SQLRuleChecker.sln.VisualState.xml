@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1037]SQLRuleCheckerTest.TableNameDeclareCheckVisitorTest.TestDeleteSimple</TopNode>
+  <SelectedNode>[0-1000]D:\programming\c#\RuleChecker\SQLRuleChecker\SQLRuleChecker.sln</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\programming\c#\RuleChecker\SQLRuleChecker\SQLRuleChecker.sln" Expanded="true" />
+    <Node UniqueName="[0-1039]D:\programming\c#\RuleChecker\SQLRuleChecker\SQLRuleCheckerTest\bin\Debug\SQLRuleCheckerTest.exe" Expanded="true" />
+    <Node UniqueName="[0-1040]SQLRuleCheckerTest" Expanded="true" />
+    <Node UniqueName="[0-1002]SQLRuleCheckerTest.NotificationListTest" Expanded="true" />
+    <Node UniqueName="[0-1005]SQLRuleCheckerTest.TableNameDeclareCheckVisitorTest" Expanded="true" />
+  </Nodes>
+</VisualState>
